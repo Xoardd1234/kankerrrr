@@ -1,0 +1,22 @@
+{
+  "name": "keyauth-redeem-bot",
+  "version": "5.2.2",
+  "description": "KeyAuth Redeem Bot v5.2.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "/help"
+  },
+  "author": "KeyAuth <https://github.com/keyauth> - mazkdevf <https://github.com/mazkdevf>",
+  "license": "ISC",
+  "keywords": [
+    "discordjs",
+    "v14",
+    "keyauth"
+  ],
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.7",
+    "quick.db": "^7.1.3"
+  }
+}
